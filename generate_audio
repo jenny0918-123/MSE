@@ -8,7 +8,7 @@ import string
 from tkinter import Tk, filedialog, messagebox
 
 # ===== API Key 配置（写死在代码里）=====
-API_KEY = "sk_255df5eece0e6606be8a93541da4e54f40decfd7abc0997f"  # ← 这里换成你的真实 Key
+API_KEY = ""  # ← 这里换成你的真实 Key
 HEADERS = {
     "accept": "*/*",
     "xi-api-key": API_KEY,
